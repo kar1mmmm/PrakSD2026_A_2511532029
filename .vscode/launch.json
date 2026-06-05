@@ -1,0 +1,266 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HapusDLL_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/Pekan6_2511532029.HapusDLL_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "InsertDLL_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/Pekan6_2511532029.InsertDLL_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "Musik_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/Pekan6_2511532029.Musik_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "PenelusuranDLL_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/Pekan6_2511532029.PenelusuranDLL_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "Driver_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan1_2511532029.Driver_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "JamDriver2_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan1_2511532029.JamDriver2_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "JamDriver_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan1_2511532029.JamDriver_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList1_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan2_2511532029.ArrayList1_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "DaftarKataDriver_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan2_2511532029.DaftarKataDriver_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaDriver_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan2_2511532029.MahasiswaDriver_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "Playlist_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan2_2511532029.Playlist_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "Browser_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan3_25115302029.Browser_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "NilaiMaksimum_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan3_25115302029.NilaiMaksimum_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "SiswaStack_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan3_25115302029.SiswaStack_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "stackArrayDriver_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan3_25115302029.stackArrayDriver_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "stackPostfix_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan3_25115302029.stackPostfix_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "AntrianLoket_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan4_2511532029.AntrianLoket_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "LiterasiQueue_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan4_2511532029.LiterasiQueue_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "QueueArrayDriver_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan4_2511532029.QueueArrayDriver_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "QueueLinkedList_2029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan4_2511532029.QueueLinkedList_2029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "ReverseData_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan4_2511532029.ReverseData_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "HapusSSL_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan5_2511532029.HapusSSL_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "PencarianSSL_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan5_2511532029.PencarianSSL_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "RumahSakit_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan5_2511532029.RumahSakit_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "TambahSLL_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan5_2511532029.TambahSLL_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "BubleSort_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan7_2511532029.BubleSort_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSortGUI_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan7_2511532029.InsertionSortGUI_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan7_2511532029.InsertionSort_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan7_2511532029.SelectionSort_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "SortingGUI_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan7_2511532029.SortingGUI_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "BubleSortGUI_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan8_2511532029.BubleSortGUI_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortGUI_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan8_2511532029.MergeSortGUI_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan8_2511532029.MergeSort_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan8_2511532029.QuickSort_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "ShellSort_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan8_2511532029.ShellSort_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_2511532029",
+            "request": "launch",
+            "mainClass": "PrakSD2026_A_2511532029/pekan8_2511532029.Sorting_2511532029",
+            "projectName": "PrakSD2026_A_2511532029"
+        }
+    ]
+}

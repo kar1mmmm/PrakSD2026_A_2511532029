@@ -43,7 +43,7 @@ public final class Jam_2511532029{
 	//--Relasional--
 	public int compareTo (Jam_2511532029 other ) { return Integer.compare(this.toSecond(), other.toSecond());}
 	public boolean equals (Object o) {
-		if (!(o instanceof Jam_2511532029 j)) return false;
+		if (!(o instanceof Jam_2511532029 )) return false;
 		return hh == j.hh && mm == j.mm && ss == j.ss;
 	}
 	

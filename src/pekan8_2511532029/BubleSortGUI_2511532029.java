@@ -116,6 +116,7 @@ public class BubleSortGUI_2511532029 extends JFrame {
 			JOptionPane.showMessageDialog(this, "Sorting selesai!");
 			return;
 		}
+		
 
 		resetHighlights_2029();
 		StringBuilder stepLog_2029 = new StringBuilder();
